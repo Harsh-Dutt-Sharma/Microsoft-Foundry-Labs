@@ -24,7 +24,6 @@ The purpose of this repository is to document practical experience with:
 Each lab folder contains:
 
 - Lab Report (PDF)
-- Screenshots
 - Notes and Observations
 
 ---
@@ -34,7 +33,7 @@ Each lab folder contains:
 | Lab No. | Topic | Status |
 |----------|--------|---------|
 | 01 | Explore AI Studio | Completed |
-| 02 | Model Catalog & Evaluation | Upcoming |
+| 02 | Model Catalog & Evaluation | Completed |
 | 03 | Foundry SDK | Upcoming |
 | 04A | Use Your Own Data | Upcoming |
 | 04B | Fine-Tune a Model | Upcoming |
