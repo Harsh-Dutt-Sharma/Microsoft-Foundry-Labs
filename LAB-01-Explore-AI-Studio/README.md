@@ -24,7 +24,6 @@ Exploring Microsoft Foundry Studio and Connecting AI Foundry to VS Code End-to-E
 ## Deliverables
 
 - Lab Report PDF
-- Screenshots
 - Observations and Learnings
 
 ## Status
