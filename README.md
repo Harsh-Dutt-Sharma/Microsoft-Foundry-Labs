@@ -6,16 +6,16 @@ This repository contains my hands-on lab work completed as part of Microsoft Fou
 
 The purpose of this repository is to document practical experience with:
 
-- Microsoft Foundry Studio
-- Azure AI Foundry
-- Foundation Models
-- Model Deployment
-- Model Evaluation
-- Azure AI SDK
-- Fine-Tuning
-- Retrieval-Augmented AI
-- Content Safety and Filtering
-- VS Code Integration
+* Microsoft Foundry Studio
+* Azure AI Foundry
+* Foundation Models
+* Model Deployment
+* Model Evaluation
+* Azure AI SDK
+* Fine-Tuning
+* Retrieval-Augmented AI
+* Content Safety and Filtering
+* VS Code Integration
 
 ---
 
@@ -23,21 +23,30 @@ The purpose of this repository is to document practical experience with:
 
 Each lab folder contains:
 
-- Lab Report (PDF)
-- Notes and Observations
+* Lab Report (PDF)
+* Lab Report (DOCX)
+* Notes and Observations
 
 ---
 
 ## Labs
 
-| Lab No. | Topic | Status |
-|----------|--------|---------|
-| 01 | Explore AI Studio | Completed |
-| 02 | Model Catalog & Evaluation | Completed |
-| 03 | Foundry SDK | Upcoming |
-| 04A | Use Your Own Data | Upcoming |
-| 04B | Fine-Tune a Model | Upcoming |
-| 06 | Explore Content Filters | Upcoming |
+| Lab No. | Topic                              | Status      |
+| ------- | ---------------------------------- | ----------- |
+| 01      | Explore AI Studio                  | ✅ Completed |
+| 02      | Model Catalog & Evaluation         | ✅ Completed |
+| 03.1    | Choose and Deploy a Language Model | ✅ Completed |
+| 03.2    | To Be Updated                      | 🔄 Upcoming |
+| 03.3    | To Be Updated                      | 🔄 Upcoming |
+| 03.4    | To Be Updated                      | 🔄 Upcoming |
+| 03.5    | To Be Updated                      | 🔄 Upcoming |
+| 03.6    | To Be Updated                      | 🔄 Upcoming |
+| 03.7    | To Be Updated                      | 🔄 Upcoming |
+| 03.8    | To Be Updated                      | 🔄 Upcoming |
+| 03.9    | To Be Updated                      | 🔄 Upcoming |
+| 04      | To Be Updated                      | 🔄 Upcoming |
+| 05      | To Be Updated                      | 🔄 Upcoming |
+| 06      | Explore Content Filters            | 🔄 Upcoming |
 
 ---
 
@@ -51,24 +60,40 @@ Microsoft-Foundry-Labs/
 
 ├── LAB-02-Model-Catalog-Evaluation
 
-├── LAB-03-Foundry-SDK
+├── LAB-03.1-Choose-and-Deploy-a-Language-Model
 
-├── LAB-04A-Use-Own-Data
+├── LAB-03.2
 
-├── LAB-04B-Fine-Tune-Model
+├── LAB-03.3
 
-└── LAB-06-Explore-Content-Filters
+├── LAB-03.4
+
+├── LAB-03.5
+
+├── LAB-03.6
+
+├── LAB-03.7
+
+├── LAB-03.8
+
+├── LAB-03.9
+
+├── LAB-04
+
+├── LAB-05
+
+└── LAB-06
 
 ---
 
 ## Technologies Used
 
-- Microsoft Foundry
-- Azure AI Foundry
-- Azure OpenAI
-- VS Code
-- Python
-- Foundation Models
+* Microsoft Foundry
+* Azure AI Foundry
+* Azure OpenAI
+* VS Code
+* Python
+* Foundation Models
 
 ---
 
@@ -76,6 +101,6 @@ Microsoft-Foundry-Labs/
 
 **Harsh Dutt Sharma**
 
-B.Tech CSE
+B.Tech CSE (AI & Data Science)
 
-Microsoft Foundry Learning Journey
+Microsoft Foundry Learning Journey 🚀
