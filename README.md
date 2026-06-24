@@ -11,6 +11,7 @@ The purpose of this repository is to document practical experience with:
 * Foundation Models
 * Model Deployment
 * Model Evaluation
+* Content Filters and Guardrails
 * Azure AI SDK
 * Fine-Tuning
 * Retrieval-Augmented AI
@@ -36,8 +37,8 @@ Each lab folder contains:
 | 01      | Explore AI Studio                  | ✅ Completed |
 | 02      | Model Catalog & Evaluation         | ✅ Completed |
 | 03.1    | Choose and Deploy a Language Model | ✅ Completed |
-| 03.2    | To Be Updated                      | 🔄 Upcoming |
-| 03.3    | To Be Updated                      | 🔄 Upcoming |
+| 03.2    | Evaluation of models in Foundry    | ✅ Completed |
+| 03.3    | Content Filters and Guardrails     | ✅ Completed |
 | 03.4    | To Be Updated                      | 🔄 Upcoming |
 | 03.5    | To Be Updated                      | 🔄 Upcoming |
 | 03.6    | To Be Updated                      | 🔄 Upcoming |
@@ -62,9 +63,9 @@ Microsoft-Foundry-Labs/
 
 ├── LAB-03.1-Choose-and-Deploy-a-Language-Model
 
-├── LAB-03.2
+├── LAB-03.2-Evaluate-Models-from-Microsoft-Foundry
 
-├── LAB-03.3
+├── LAB-03.3-Content-Filters-and-Guardrails
 
 ├── LAB-03.4
 
