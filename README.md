@@ -39,8 +39,7 @@ Each lab folder contains:
 | 03.1    | Choose and Deploy a Language Model | ✅ Completed |
 | 03.2    | Evaluation of models in Foundry    | ✅ Completed |
 | 03.3    | Content Filters and Guardrails     | ✅ Completed |
-| 03.4    | To Be Updated                      | 🔄 Upcoming |
-| 03.5    | To Be Updated                      | 🔄 Upcoming |
+| 03.5    | Generative AI app using own data   | ✅ Completed |
 | 03.6    | To Be Updated                      | 🔄 Upcoming |
 | 03.7    | To Be Updated                      | 🔄 Upcoming |
 | 03.8    | To Be Updated                      | 🔄 Upcoming |
@@ -67,9 +66,7 @@ Microsoft-Foundry-Labs/
 
 ├── LAB-03.3-Content-Filters-and-Guardrails
 
-├── LAB-03.4
-
-├── LAB-03.5
+├── LAB-03.5-Build-Generative-AI-App-using-your-own-data
 
 ├── LAB-03.6
 
