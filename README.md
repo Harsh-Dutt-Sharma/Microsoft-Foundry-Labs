@@ -45,7 +45,7 @@ Each lab folder contains:
 | 03.7    | Prompt Flow                        | ✅ Completed |
 | 03.8    | To Be Updated                      | 🔄 Upcoming |
 | 03.9    | To Be Updated                      | 🔄 Upcoming |
-| 04      | To Be Updated                      | 🔄 Upcoming |
+| 04      | AI Hub Creation in Azure Foundry   | ✅ Completed |
 | 05      | To Be Updated                      | 🔄 Upcoming |
 | 06      | Explore Content Filters            | 🔄 Upcoming |
 
@@ -77,7 +77,7 @@ Microsoft-Foundry-Labs/
 
 ├── LAB-03.9
 
-├── LAB-04
+├── LAB-04-AI-Hub-Creation
 
 ├── LAB-05
 
