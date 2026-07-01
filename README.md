@@ -73,6 +73,8 @@ Microsoft-Foundry-Labs/
 
 ---
 
+Some more resources regarding Foundry IQ will be added.
+
 ## Technologies Used
 
 * Microsoft Foundry
